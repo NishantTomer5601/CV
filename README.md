@@ -1,2 +1,2 @@
-# CV
+# CV/Resume
 My first  Repo..
