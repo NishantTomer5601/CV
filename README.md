@@ -1,2 +1,2 @@
-# CV/Resume(not completed yet)
+# CV/Resume(not compl
 My first  Repo...
