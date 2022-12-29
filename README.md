@@ -1,2 +1,2 @@
-# CV/Resume(not compl
+# CV/Resume
 My first  Repo...
