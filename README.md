@@ -1,2 +1,2 @@
 # CV/Resume
-My ge first  Repo..
+My first  Repo..
