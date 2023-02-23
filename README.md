@@ -1,2 +1,2 @@
 # CV/Resume
-hg hv
+hg
